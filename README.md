@@ -21,17 +21,17 @@ $ omf install iex
 ## Usage
 
 ```fish
-$ iex
+$ iex [tab][tab]
 ```
 
 # License
 
-[MIT][mit] © [{{USER}}][author] et [al][contributors]
+[MIT][mit] © [belltoy][author] et [al][contributors]
 
 
 [mit]:            http://opensource.org/licenses/MIT
-[author]:         http://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/pkg-iex/graphs/contributors
+[author]:         http://github.com/belltoy
+[contributors]:   https://github.com/belltoy/omf-pkg-iex/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
